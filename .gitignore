@@ -1,0 +1,9 @@
+# Virtual environment
+venv/
+
+# Large datasets (exceed GitHub's 100 MB limit)
+*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
